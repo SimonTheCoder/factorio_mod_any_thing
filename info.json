@@ -1,0 +1,9 @@
+{
+    "name": "any_thing",
+    "version": "0.1.1",
+    "title": "Any Thing",
+    "author": "SimonTheCoder",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "This mod gives you any thing you want. :)"
+  }
