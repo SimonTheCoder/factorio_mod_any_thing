@@ -4,7 +4,7 @@ local any_thing_entity = table.deepcopy(data.raw["infinity-container"]["infinity
 any_thing_entity.name = "Any-Thing"
 any_thing_entity.minable = {mining_time = 0.1, result = "Any-Thing"}
 any_thing_entity.gui_mode = "all" -- all, none, admins
-any_thing_entity.logistic_mode = "passive-provider"
+any_thing_entity.logistic_mode = "storage"
 
 local any_thing_box = table.deepcopy(data.raw["item"]["logistic-chest-requester"])
 
